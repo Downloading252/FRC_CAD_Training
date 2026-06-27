@@ -2,13 +2,15 @@
 
 This folder consists of all the presentaions covering the systems regarded as "Green" in the "FRC Systems" docx file. The systems that are covered in this folder are:
 
-001 - Slapdown Intake
+111 - Slapdown Intake
 
-002 - Cut Bumper Intake
+112 - Cut Bumper Intake
 
-003 - Passive Claw
+121 - Static Claw
 
-011 - Spindexer
+122 - Passive Claw
 
-021 - Static Shooter
+211 - Spindexer
+
+311 - Static Shooter
 
