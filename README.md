@@ -9,3 +9,5 @@ My goal is to help both my teams and the global community elevate their CAD skil
 This repository consists of five parts: 'Initial CAD Training' and four folders containing presentations organized by system complexity.
 
 The 'Initial CAD Training.docx' file serves as an introductory course that the entire design team should master before tackling specific systems. The goal of this file is to guide the team from 'what is CAD' to a level where they can confidently design complete systems on their own.
+
+The 'FRC Systems.docx' file serves as table of content for all the systems that will be covered in this repository and includes the serial number of each presentation and the 'color' (difficulty level) of each system.
